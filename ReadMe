@@ -1,1 +1,7 @@
-Thsi project is part of LGM- Internship in Data Science. 
+This project is part of LGM- Internship in Data Science. 
+
+Task-1 Iris Flowers Classification ML Project
+DataSet-Iris.csv
+
+Task-2 Stock Market Prediction And Forecasting Using Stacked LSTM
+DataSet- url("https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv")
